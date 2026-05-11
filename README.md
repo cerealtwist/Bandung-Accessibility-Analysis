@@ -6,7 +6,7 @@
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-GCP-blue?logo=google-cloud&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-How accessible is Bandung for its residents — without a car?
+How accessible is Bandung for its residents without a car?
 
 This project applies the **15-minute city** framework to Kota Bandung, Indonesia,
 measuring how well residents can reach essential daily facilities (education, healthcare,
@@ -14,7 +14,7 @@ markets, and public transport) within a walkable distance from any point in the 
 The analysis is powered entirely by **Google Cloud Platform**, combining BigQuery GIS,
 Google Colab, and Vertex AI.
 
-![Choropleth map showing accessibility distribution across Bandung's districts](<assets/maps/choropleth_kecamatan.png>)
+#### Google Colab Link: https://colab.research.google.com/drive/14j7qSZOdcN_gMSiv79bVbhgMXjInypM4#scrollTo=xIyWO6aHIzL3
 
 ---
 
